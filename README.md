@@ -1,6 +1,6 @@
 # portfolio-Rachelle
 
-Check out [Live Demo] (https://portfolio-rachelle.herokuapp.com/) !
+Check out [Live Demo](https://portfolio-rachelle.herokuapp.com/) !
 
 # Technology Used
 * HTML
